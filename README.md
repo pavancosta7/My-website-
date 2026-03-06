@@ -10,7 +10,7 @@
 <body>
 
 <header>
-<h1>costa company</h1>
+<h1>costa company 😎🤫</h1>
 <nav>
 <a href="#home">Home</a>
 <a href="#about">About</a>
